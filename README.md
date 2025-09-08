@@ -1,11 +1,12 @@
 # 👋 Hi, I'm **Himani Rajput** ✨  
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Aspiring-Full-Stack+Developer;Open-Source+Contributor;Problem+Solver;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Girl Coding GIF">
 </p>
+
 
 ---
 
@@ -66,41 +67,22 @@
 - 🌍 **Open-Source Contributor** – Actively contributing to GitHub projects  
 
 ---
-
-## 📊 GitHub Stats & 3D Contributions  
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanirajput1217&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" height="170" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanirajput1217&layout=compact&hide_border=true&theme=radical&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanirajput1231&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanirajput1231&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=himanirajput1217&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanirajput1231&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
 
-## 🪄 3D Contribution Calendar  
+## 🏆 GitHub Trophies 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/himanirajput1217/himanirajput1217/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanirajput1217/himanirajput1217/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
----
-
-## 🏅 Trophies & Profile Insights  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanirajput1217&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanirajput1217&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Himanirajput1231&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -108,18 +90,18 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanirajput1217&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanirajput1231&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-## 🐍 Snake Contribution Animation  
+<!--## 🐍 Snake Contribution Animation  
 
 <p align="center">
   <img src="https://github.com/himanirajput1217/himanirajput1217/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
----
+-->
 
 ## 🎉 Extra-Curricular Activities  
 - 🤝 Volunteered in **Hackathon 2023** for event coordination  
