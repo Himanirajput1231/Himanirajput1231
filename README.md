@@ -74,8 +74,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanirajput1231&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanirajput1231&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Himanirajput1231&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
+
 
 ---
 
